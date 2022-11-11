@@ -1,0 +1,110 @@
+commit 5213e19dddb22888e8eabf25467c68ddcb1002f2
+Author: vmchb76 <victorm.chavarria@yahoo.com.mx>
+Date:   Wed Nov 9 18:42:20 2022 -0600
+
+    Agregando 2 parrafos
+
+commit e51aa0975e5ded477a8494e6d826de28e6afa4fb
+Merge: 2231b9b 15a517a
+Author: vmchb76 <victorm.chavarria@yahoo.com.mx>
+Date:   Wed Nov 9 18:39:42 2022 -0600
+
+    Resolviendo conflicto en estaciones del año y fecha de inicio
+
+commit 2231b9b96d7755b743040ffa5e07b071ae485b1f
+Author: vmchb76 <victorm.chavarria@yahoo.com.mx>
+Date:   Wed Nov 9 18:15:54 2022 -0600
+
+    Agrgegandi estaciones del año con fecha de inicio
+
+commit 15a517aa2e5c4959264516dc2af57b82b129eeed
+Author: vmchb76 <victorm.chavarria@yahoo.com.mx>
+Date:   Wed Nov 9 18:15:54 2022 -0600
+
+    Agregando las estaciones del año
+
+commit 86239f738df92b8f8556b14fbad07ef77a3e614c
+Merge: a393fd5 39eb61a
+Author: vmchb76 <victorm.chavarria@yahoo.com.mx>
+Date:   Tue Nov 8 19:01:37 2022 -0600
+
+    Resolviendo conflicto merge main html en el documento index.html
+
+commit 39eb61a337b36814bea8fed36359ece35262813c
+Author: vmchb76 <victorm.chavarria@yahoo.com.mx>
+Date:   Tue Nov 8 18:50:34 2022 -0600
+
+    Agregando index.js al index.html
+
+commit a393fd50282a31386a168c12f74db7921592bad6
+Author: vmchb76 <victorm.chavarria@yahoo.com.mx>
+Date:   Tue Nov 8 18:45:32 2022 -0600
+
+    Agregando style.css al index.html
+
+commit fc6b1ce6cf904dcb732a90fab42b81c616b1a320
+Merge: 9ce23ff 79bccd6
+Author: vmchb76 <victorm.chavarria@yahoo.com.mx>
+Date:   Tue Nov 8 18:33:54 2022 -0600
+
+    Merge branch 'js'
+
+commit 79bccd6fb51398984cb9fdbdd42d7e55489f8cc9
+Author: vmchb76 <victorm.chavarria@yahoo.com.mx>
+Date:   Tue Nov 8 18:18:21 2022 -0600
+
+    Creandoi index.js
+
+commit 9ce23ff187578f9eb69d715e68c448b33e3fb19d
+Author: vmchb76 <victorm.chavarria@yahoo.com.mx>
+Date:   Tue Nov 8 18:10:16 2022 -0600
+
+    Creando style.css
+
+commit 64853ce07c0b1d2812649a5202c9341d1dfc498a
+Author: vmchb76 <victorm.chavarria@yahoo.com.mx>
+Date:   Tue Nov 8 18:04:58 2022 -0600
+
+    Creando index.html
+
+commit 3e0af0d565bb4e29b77ecb7d3dca4cacc9065a8a
+Author: vmchb76 <victorm.chavarria@yahoo.com.mx>
+Date:   Mon Nov 7 18:42:46 2022 -0600
+
+    ignorando archivos .exe
+
+commit 98b14f9bdd740b2b5061f11da75deaf3dec30edf
+Author: Victor Manuel Chavarria Barajas <74920786+vmchb76@users.noreply.github.com>
+Date:   Sat Nov 5 18:49:53 2022 -0600
+
+    creando archivo de prueba para un pull
+
+commit 4179336be469f9c77ccf5e5bbb1187c278750646
+Author: vmchb76 <victorm.chavarria@yahoo.com.mx>
+Date:   Sat Nov 5 18:37:11 2022 -0600
+
+    nuevo commit
+
+commit fac1ac0a4a3a7c23c482a3e5b0e2d0e77865a221
+Author: Victor Manuel Chavarria Barajas <74920786+vmchb76@users.noreply.github.com>
+Date:   Fri Nov 4 13:56:05 2022 -0600
+
+    creando licencia del repositorio
+
+commit 26eccc446a41ab8fbf03294ed9ec6980c17a6cad
+Author: Victor Manuel Chavarria Barajas <victorm.chavarria@yahoo.com.mx>
+Date:   Fri Nov 4 13:36:11 2022 -0600
+
+    Agregando mas contenido al README
+
+commit 898bb263481d55e97b72b05c33b0c4799de4cf0d
+Author: Victor Manuel Chavarria Barajas <victorm.chavarria@yahoo.com.mx>
+Date:   Fri Nov 4 12:25:25 2022 -0600
+
+    Agregando contenido inicial al README
+
+commit 1fa6ef77d1982980c3a903941928e2a9578cd34f
+Author: Victor Manuel Chavarria Barajas <victorm.chavarria@yahoo.com.mx>
+Date:   Fri Nov 4 12:22:22 2022 -0600
+
+    Mi Primer commit :)
